@@ -2,6 +2,16 @@ body {
     background-color: lightblue;
 }
 
+
+h1 {
+	font-family: Jura, Lucida Console Georgia, sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
 .pageText {
 	font-family: 'Jura', sans-serif;
 	font-size: 20px;
